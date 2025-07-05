@@ -101,6 +101,11 @@ This module is deployed on platforms Vercel.
 *   Implement a proper scheduling mechanism for the `cron-check-trials` endpoint.
 *   Add unit tests.
 
+## Postman Screenshots
+
+![alt text](<Screenshot 2025-07-05 205854.png>)
+![alt text](<Screenshot 2025-07-05 210121.png>)
+![alt text](<Screenshot 2025-07-05 210544.png>)
 ## Author
 Nirmiti Rane
 
