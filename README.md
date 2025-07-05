@@ -61,7 +61,7 @@ This module provides a basic API for simulating user auto-enrollment to a "Pro" 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/nirmitirane24/candidate-00X-powerofaum-module-autoenroll.git 
+    git clone https://github.com/nirmitirane24/candidate-054-powerofaum-module-autoenroll.git 
     cd Module-Autoenroll
     ```
 
@@ -85,7 +85,8 @@ Used Postman tool to send requests to the API endpoints. Refer to the "Endpoints
 
 ## Deployment
 
-This module is deployed on platforms Vercel.
+*   This module is deployed on platforms Vercel.
+*   Vercel link: https://candidate-054-powerofaum-module-aut.vercel.app/
 
 ## Technologies Used
 
@@ -93,13 +94,6 @@ This module is deployed on platforms Vercel.
 *   Express.js
 *   Moment.js (for date manipulation)
 *   CORS (for enabling Cross-Origin Resource Sharing)
-
-## Future Enhancements
-
-*   Implement a database for persistent data storage.
-*   Add authentication and authorization to the API endpoints.
-*   Implement a proper scheduling mechanism for the `cron-check-trials` endpoint.
-*   Add unit tests.
 
 ## Postman Screenshots
 
